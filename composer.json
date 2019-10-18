@@ -1,0 +1,5 @@
+{
+    "require": {
+        "dilab/omnipay-eghl": "~2.0"
+    }
+}
